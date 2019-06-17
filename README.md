@@ -1,14 +1,3 @@
-# Biodata Bootcamp
-## Clone
-```
-$ git clone https://github.com/tatasfachrul/biodata.git
-```
+# Latiahan pertama Senin, 17 Juni 2019
 
-## Create & Fill
-Create file with name biodata.txt (case sensitive)
-Fill it with format
-```
-Name	: yourname
-Phone	: 000000000000
-Email	: youremail@domain.com
-```
+## Rizal Rohman Abdul Dzalil
